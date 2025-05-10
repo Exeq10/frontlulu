@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  
+  /* Tonos pastel amigables, conservando el estilo empresarial */
+  --color-primario: #A68DCB;      /* Suave violeta pastel */
+  --color-secundario: #C3B5E6;    /* Lavanda claro */
+  --color-accent: #F6C3E5;        /* Rosa pastel */
+  --color-highlight: #F7D9C4;     /* Durazno claro */
+  --color-softBlue: #B0C8F2;      /* Azul pastel suave */
+  --color-background: #FAE8E0;    /* Fondo general claro */
+  --color-text: #3A0164;          /* Texto oscuro para contraste */
+}
